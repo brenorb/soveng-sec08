@@ -19,7 +19,7 @@ As artes dos slides vêm das inscrições vencedoras do concurso de camisetas do
 | Lugar | Autor | Onde aparece |
 |---|---|---|
 | 1º | Bitcoin Sikho | slides 2 e 3; a cor do slide 7 |
-| 2º | Joel | slide 21 (fechamento) |
+| 2º | Joel | slide 22 (fechamento) |
 | 3º | The Tim | capa |
 
 As artes pertencem aos seus autores. Se algum deles preferir que sejam retiradas deste repositório, abra uma issue.
